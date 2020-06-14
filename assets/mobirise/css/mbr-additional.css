@@ -1122,18 +1122,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s1LkFZVKUP {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-.cid-s1LkFZVKUP .mbr-iconfont-social {
-  font-size: 32px;
-  color: #0f7699;
-}
-.cid-s1LkFZVKUP .social-list a:focus {
-  text-decoration: none;
-}
 .cid-s1LkjtDCvl {
   padding-top: 90px;
   padding-bottom: 75px;
@@ -1178,6 +1166,18 @@ section.lazy-placeholder:after {
 .cid-s1LkjtDCvl .card-title {
   color: #19153e;
   text-align: left;
+}
+.cid-s1LkFZVKUP {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-s1LkFZVKUP .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-s1LkFZVKUP .social-list a:focus {
+  text-decoration: none;
 }
 .cid-s1LjNJA4ll .mbr-icofont {
   font-size: 48px;
